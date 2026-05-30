@@ -106,7 +106,7 @@ charset-normalizer==3.4.2
 decorator==5.2.1
 executing==2.2.0
 filelock==3.28.0
-idna==3.10
+idna==3.15
 importlib-metadata==8.7.0
 jedi==0.19.2
 jinja2==3.1.6
